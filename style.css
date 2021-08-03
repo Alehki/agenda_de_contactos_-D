@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: rgb(125 125 125);
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.color{
+    background-color: #333;
+}
+
+.title{
+    margin-top: 60px;
+}
+
+.form__date, .add{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 50%;
+    height: 30px;
+}
+
+.add{
+    font-size: inherit;
+    font-family: inherit;
+    background-color: rgb(50, 128, 50);
+}
+
+/* lista de agregados */
+
+.container{
+    background-color: rebeccapurple;
+    margin: 0 auto;
+    width: 600px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.span__style{
+    margin-left: 60px;
+    font-size: 1.2rem;
+}
+
+.deleted{
+    margin-left: 80px;
+    font-size: 2rem;
+    color: red;
+    cursor: pointer;
+}
+
+
+
+
+
+/* Boton style */
+.estilo{
+    position: fixed;
+    left: 5%;
+    top: 5%;
+}
