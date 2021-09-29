@@ -50,7 +50,8 @@ body{
 .deleted{
 /*     margin-left: 80px; */
     margin-left: 3vw;
-    font-size: 2rem;
+/*     font-size: 2rem; */
+    font-size: 5vw;
     color: red;
     cursor: pointer;
 }
