@@ -55,6 +55,10 @@ body{
     cursor: pointer;
 }
 
+.span__style, .deleted{
+    vertical-align: middle;
+}
+
 
 
 
