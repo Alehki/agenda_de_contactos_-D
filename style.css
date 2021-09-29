@@ -27,6 +27,7 @@ body{
     font-size: inherit;
     font-family: inherit;
     background-color: rgb(50, 128, 50);
+    margin-bottom: 50px;
 }
 
 /* lista de agregados */
@@ -38,13 +39,13 @@ body{
     width: 50%;
     margin-top: 10px;
 /*     padding: 10px; */
-     padding: .5vw;
+     padding: 5px;
     border-radius: 5px;
 }
 .span__style{
 /*     margin-left: 60px;
     font-size: 1.2rem; */
-    margin-left: 3vw;
+    margin-left: 4vw;
     font-size: 2.5vw;
 }
 
